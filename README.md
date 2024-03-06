@@ -25,3 +25,4 @@ hello，来自湖北，我是一名从设计院裸辞的全职转码人，厌倦
 2. 对VS Code的插件、快捷键及基本使用进行学习。
 3. 注册Github账号，配置SSH-key，练习创建Github仓库、连接Github仓库及同步Git仓库的终端(Git bash)命令;本地文件删除后，克隆Github的代码
 4. Markdown的基本语法，记录学习。
+5. 学习创建一个属于自己的Github page。
