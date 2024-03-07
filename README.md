@@ -26,3 +26,10 @@ hello，来自湖北，我是一名从设计院裸辞的全职转码人，厌倦
 3. 注册Github账号，配置SSH-key，练习创建Github仓库、连接Github仓库及同步Git仓库的终端(Git bash)命令;本地文件删除后，克隆Github的代码
 4. Markdown的基本语法，记录学习。
 5. 学习创建一个属于自己的Github page。
+
+###  2024.3.7 学习成果
+
+1. HTML学习：结构标签；h1~h6、p、ul、ol、li、dl、dt、dd等文本标签；img、link、video、audio标签；表格标签；表单标签、输入、按钮；简单版html百度首页及demo练习。
+2. CSS学习：Normalize、Reset及通配符*浏览器样式重设使用；各类选择器使用，权重比较计算；CSS设置文本属性，颜色、间距等等。
+3. 记录学习推送Github仓库
+
