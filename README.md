@@ -38,3 +38,8 @@ hello，来自湖北，我是一名从设计院裸辞的全职转码人，厌倦
 1. 今天继续CSS学习，背景background-color/image/repeat/positon；盒模型的margin、border、padding属性；制作特殊图形，border-radius定义圆角可制作圆形和椭圆，利用border组合位置朝向的三角形；定位中相对定位relative、绝对定位absolute和固定定位fixed(只相对于视口，页面滚动不变化)；伪类/伪元素用法。重点学习了flex布局，flex-direction、flex-war换行、flex-flow简写、justify-content主轴对齐、align-items和align-content交叉轴对齐方式不同，flex布局挺一目了然，不考虑float 什么标准流，hhh，了解命令不够，写写案例熟悉。
 2. 每天记录推送Github。明天继续
 
+### 2024.3.9学习成果
+
+1. 今天学习了一下CSS动画，主要找了页面案例视频，学习命令的综合运用，信息量有点大，需要反复熟悉，明天继续吧。
+2. 记录学习推送Github仓库。
+
